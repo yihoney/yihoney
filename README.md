@@ -6,9 +6,9 @@
 :blush: I enjoy listening to music and watching baseball games <br>
 
 ## Exprience 
-:speech_balloon: SSAFY(Samsung Software Academy For Youth) 10th, 2023.07 - ~ <br>
-:speech_balloon: NHN Academy 2th, 2022.08 - 2023.03 <br>
-:speech_balloon: Department of Electronic Engineering, Chosun University, 2019.02 - 2023.02 <br>
+:computer: SSAFY(Samsung Software Academy For Youth) 10th, 2023.07 - ~ <br>
+:computer: NHN Academy 2th, 2022.08 - 2023.03 <br>
+:mortar_board: Department of Electronic Engineering, Chosun University, 2019.02 - 2023.02 <br>
 
 ## Tech Stacks
 **Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br>
@@ -21,21 +21,49 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/> <br>
 **Communication** : 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 
 ## Projects
-:computer: Giveus; 블록체인을 통한 의료비 크라우드 펀딩 서비스 (2024) <br>
-:computer: Pawsitive; 빅데이터 기반 맞춤형 유기견 입양 서비스 (2024) <br>
-:computer: Itbook; 도서 쇼핑몰 웹 서비스 (2023) <br>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Introduction</th>
+    <th>Languages, etc.</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yihoney/giveus">Giveus</a></td>
+    <td>블록체인을 통한 병원비 크라우드 펀딩 프로젝트 (2024) </td>
+    <td> Java, Spring Boot, JPA </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/itbook-store">ItBook</a></td>
+    <td>도서 쇼핑몰 웹 서비스 (2023) </td>
+    <td> Java, Spring Boot, JPA, <br> Thymeleaf, javascript </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yihoney/pawsitive">Pawsitive</a></td>
+    <td>빅데이터 추천 기술 기반의 사용자 맞춤 유기견 입양 지원 서비스 (2024) </td>
+    <td> Java, Spring Boot, JPA </td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/SSAFY-imgonna">Imgonna</a></td>
+    <td>공공데이터를 활용한 촬영지 기반 여행 계획 및 여행지 정보 공유 서비스 (2023) </td>
+    <td> Java, Spring Boot, MyBatis, <br> Vue, javascript, pinia </td>
+  </tr>
+</table>
 
 ## Awards
-:trophy: SSAFY 2학기 프로젝트 경진대회 2위, 2024.02 <br>
-:trophy: SSAFY 1학기 프로젝트 경진대회 1위, 2023.11 <br>
+:trophy: SSAFY 2학기 프로젝트 경진대회 2위 (2024.02) <br>
+:trophy: SSAFY 1학기 프로젝트 경진대회 1위 (2023.11) <br>
 
-<hr>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leehoney)](https://solved.ac/leehoney) ![yihoney's GitHub stats](https://github-readme-stats.vercel.app/api?username=yihoney&show_icons=true&theme=dark)
+<br><br><br>
+<div align="center">
+	
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leehoney)](https://solved.ac/leehoney)
+	
+</div>
+ 
 
