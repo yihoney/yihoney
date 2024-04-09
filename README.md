@@ -5,7 +5,7 @@
 :blush: I majored in Department of Electronic Engineering <br>
 :blush: I enjoy listening to music and watching baseball games <br>
 
-## Exprience 
+## Experience 
 :computer: SSAFY(Samsung Software Academy For Youth) 10th, 2023.07 - ~ <br>
 :computer: NHN Academy 2th, 2022.08 - 2023.03 <br>
 :mortar_board: Department of Electronic Engineering, Chosun University, 2019.02 - 2023.02 <br>
