@@ -1,5 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=6a9951&height=160&section=header&text=honeyi's%20github&fontSize=50)
 
+<div align="center">
+
+ 
+  [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@yihoney/posts)](https://velog.io/@yihoney/posts) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehoney86@gmail.com)](mailto:leehoney86@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%95%98%EB%8A%AC-%EC%9D%B4-816b70269/)](https://www.linkedin.com/in/%ED%95%98%EB%8A%AC-%EC%9D%B4-816b70269/)
+
+
+ 
+</div>
+
+
 ## Who Am I
 :blush: I'm currently learning backend and algorithms <br>
 :blush: I majored in Department of Electronic Engineering <br>
@@ -11,19 +21,19 @@
 :mortar_board: Department of Electronic Engineering, Chosun University, 2019.02 - 2023.02 <br>
 
 ## Tech Stacks
-**Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br>
-**Framework** : <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/> <br>
+**Languages** : [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/yihoney/algorithm)&nbsp; <br>
+**Framework** : <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <br>
 **Database** :
-<img src="https://img.shields.io/badge/MySQL-07405E?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/MySQL-07405E?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/> <br>
 **Infra** :
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white"/> <br>
 **Communication** : 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
 
 ## Projects
