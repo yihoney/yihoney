@@ -69,6 +69,12 @@
 :trophy: SSAFY 2학기 프로젝트 경진대회 2위 (2024.02) <br>
 :trophy: SSAFY 1학기 프로젝트 경진대회 1위 (2023.11) <br>
 
+## Certificates
+- SQLD, 2023.07
+- 정보처리기사, 2023.06
+- DSAC (Data Scientist Academy & Certificate) 2nd Grade, 2021.08
+- Cos Pro 3rd Grade (C), 2020.08
+
 <br><br><br>
 <div align="center">
 	
