@@ -44,24 +44,19 @@
     <th>Languages, etc.</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/yihoney/giveus">Giveus</a></td>
-    <td>블록체인을 통한 병원비 크라우드 펀딩 프로젝트 (2024) </td>
-    <td> Java, Spring Boot, JPA </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/itbook-store">ItBook</a></td>
-    <td>도서 쇼핑몰 웹 서비스 (2023) </td>
-    <td> Java, Spring Boot, JPA, <br> Thymeleaf, javascript </td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/yihoney/pawsitive">Pawsitive</a></td>
     <td>빅데이터 추천 기술 기반의 사용자 맞춤 유기견 입양 지원 서비스 (2024) </td>
     <td> Java, Spring Boot, JPA </td>
   </tr>
    <tr>
     <td><a href="https://github.com/SSAFY-imgonna">Imgonna</a></td>
-    <td>공공데이터를 활용한 촬영지 기반 여행 계획 및 여행지 정보 공유 서비스 (2023) </td>
-    <td> Java, Spring Boot, MyBatis, <br> Vue, javascript, pinia </td>
+    <td>공공데이터를 활용한 여행 통합 서비스 (2023) </td>
+    <td> Java, Spring Boot, MyBatis, <br> javascript, Vue, pinia </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/itbook-store">ItBook</a></td>
+    <td>도서 쇼핑몰 웹 서비스 (2023) </td>
+    <td> Java, Spring Boot, JPA, <br> Thymeleaf, javascript </td>
   </tr>
 </table>
 
